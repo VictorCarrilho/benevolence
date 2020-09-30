@@ -1,0 +1,30 @@
+Editar tamanho da foto sem perder a transparencia
+https://www.iloveimg.com/pt/redimensionar-imagem/png-tamanho
+
+Fotos free
+https://unsplash.com/
+
+# ----------- COMANDOS ----------- #
+
+npm start
+    Iniciar o servidor web
+
+
+# ----------- LIBS -------------- #
+react-router-dom
+npm install react-router-dom
+npm install @types/react-router-dom -D
+    - Responsavel pelo sistema de roteamento das telas
+
+
+
+Leaflet
+    Mapa de codigo aberto gratuito
+
+react-leaflet
+    Integrar o mapa Leaflet com react
+    npm install leaflet react-leaflet
+
+
+axios
+    Responsavel para facilitar requisições a WebService
