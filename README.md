@@ -31,4 +31,4 @@ O Benevolence é um marketplace que ajuda pessoas a ajudar outras pessoas.
 Essas proprias pessoas cadastram ponto de coleta para doação.
 Foi desenvolvido como parte dos estudos da Semana NLW da empresa RocketSeat com o diferencial de alterar o objetivo do Marketplace.
 
-<b>OBS: Ainda esta pendente a parte Mobile, onde os usuários encontraram o local mais proximo para doar os materiais que estão nas suas casas parados.</b>
+<b>OBS: Ainda esta pendente a parte Mobile, onde os usuários encontrarão o local mais proximo para doar os materiais que estão nas suas casas parados.</b>
