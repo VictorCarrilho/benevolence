@@ -28,5 +28,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Benevolence é um marketplace que ajuda pessoas a ajudar outras pessoas.
-
-
+Foi desenvolvido como parte dos estudos da Semana NLW da empresa RocketSeat com o diferencial de alterar o objetivo do Marketplace.
