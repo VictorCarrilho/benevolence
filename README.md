@@ -1,17 +1,15 @@
-
 <p align="center">
     <img src="./web/src/assets/logo_100x100.png" alt="demo-web" width="250" height="250" />
     <h1 align="center">
-        Benevolence
+        O Marketplace que deixa o mundo melhor.. Ajudamos pessoas a ajudar pessoas.
     </h1>
-    <p>O Marketplace que deixa o mundo melhor. Ajudamos pessoas a ajudar pessoas.</p>
 </p>
 
 
 <p align="center">
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#layout">Layout</a>
 </p>
 
 ## Layout
