@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="./web/src/assets/GifBenevolence.gif" alt="demo-web" width="250" height="250" />
+    <img src="./web/src/assets/logo_100x100.png" alt="demo-web" width="250" height="250" />
     <h1 align="center">
         Benevolence
     </h1>
